@@ -1,2 +1,2 @@
 # Programs
- To learn daily basis program 
+ Basis  Array program 
